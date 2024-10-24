@@ -41,3 +41,5 @@ for (int i = 1; i <= 100; i++) {
     sum += i;
 }
 printf("Sum from 1 to 100: %d\n", sum);
+
+//test 3
