@@ -34,12 +34,4 @@ int main() {
     printArray(arr, n);
     return 0;
 }
-
-
-int sum = 0;
-for (int i = 1; i <= 100; i++) {
-    sum += i;
-}
-printf("Sum from 1 to 100: %d\n", sum);
-
 //test 3
